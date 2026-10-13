@@ -101,7 +101,7 @@ Leading platforms offering robust, scalable, and high-quality Text-to-Speech API
 
 ### 🏗️ Open-Source Text-to-Speech Libraries & Local-First Projects
 
-If you are looking for **free text-to-speech models for commercial use** or want to run **TTS locally on a CPU**, these open-source projects provide the best balance of quality and privacy. *Sorted by GitHub Stars_Counts (Descending).*
+If you are looking for **free text-to-speech models for commercial use** or want to run **TTS locally on a CPU**, these open-source projects provide the best balance of quality and privacy. *Sorted by GitHub_Stars_Counts (Descending).*
 
 <div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2tjZndxeHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/3o7TKMGpxx66i7dG5m/giphy.gif" alt="Sound Wave Animation" width="300px" />
