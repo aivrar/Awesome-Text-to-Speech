@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="banner.svg" alt="Awesome Text-to-Speech Banner" width="100%" />
+  <img src="assets/banner.svg" alt="Awesome Text-to-Speech Banner" width="100%" />
 </div>
 
 # Awesome Text-to-Speech (TTS) 🗣️: Best AI Voice Generation Models & Tools 2026
